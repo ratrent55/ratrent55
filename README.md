@@ -26,9 +26,9 @@
 - LinkedIn: [linkedin.com/in/ryantrent](https://linkedin.com/in/ryantrent)
 - GitHub: [github.com/RyanTrent55](https://github.com/RyanTrent55)
 
-
+#
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![NPSS](https://img.shields.io/badge/NPSS-C++-lightgrey)
 
-
+#
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratrent55&show_icons=true&theme=dark)
