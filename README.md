@@ -1,15 +1,14 @@
 # Hi, I'm Ryan 👋
 
 ## 🚀 About Me
-- Thermofluid Systems Engineer at Rolls-Royce LibertyWorks
-- Veteran, ex-Marine Raider
-- Passion for system modeling (NPSS, Amesim, Python) and robotics
+- Thermofluid Systems Engineer 
+- Passion for system modeling, and building engineering tools
 - Exploring space systems, CFD, and machine learning
 
 ## 🛠️ Skills
 - Languages: Python, TypeScript, C++, SQL
 - Tools: NPSS, Simcenter Amesim, REFPROP, Simulink
-- Strengths: Thermofluid modeling, system integration, controls co-sim, ML for RUL prediction
+- Strengths: Thermofluid modeling, system integration, controls co-sim, ML for data driven modeling
 
 ## 📈 Projects
 - 🔬 [NASA RUL Prediction Tutorial](https://github.com/YourRepo/NASA-RUL) – machine learning model (RMSE 2.79)
