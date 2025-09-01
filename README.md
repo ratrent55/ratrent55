@@ -11,7 +11,7 @@
 - Strengths: Thermofluid modeling, system integration, controls co-sim, ML for data driven modeling
 
 ## 📈 Projects
-- 🔬 [NASA RUL Prediction Tutorial](https://github.com/YourRepo/NASA-RUL) – machine learning model (RMSE 2.79)
+- 🔬 [NASA RUL Prediction Tutorial](https://github.com/ratrent55/NASA_RUL) – machine learning model (RMSE 2.79)
 - 📊 [Interactive Plotly Dashboards](https://github.com/YourRepo/Plotly-Dashboards) – test data visualization
 - 🛰️ [PCM Thermal Model](https://github.com/YourRepo/PCM-Thermal-Model) – optimization of phase-change systems
 
