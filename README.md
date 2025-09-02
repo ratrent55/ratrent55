@@ -23,7 +23,7 @@
 ## 📫 How to Reach Me
 - Email: [RaTrent55@gmail.com](mailto:RaTrent55@gmail.com)
 - LinkedIn: [linkedin.com/in/ryantrent](https://linkedin.com/in/ryantrent)
-- GitHub: [github.com/RyanTrent55](https://github.com/RyanTrent55)
+- GitHub: [github.com/ratrent55](https://github.com/ratrent55)
 
 #
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
