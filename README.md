@@ -29,5 +29,8 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![NPSS](https://img.shields.io/badge/NPSS-C++-lightgrey)
 
-#
+# 
+Most of my development is done at work so my stats are a bit light. 
+
+
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratrent55&show_icons=true&theme=dark)
