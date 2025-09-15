@@ -12,7 +12,8 @@
 
 ## 📈 Projects
 - 🔬 [NASA RUL Prediction Tutorial](https://github.com/ratrent55/NASA_RUL) – machine learning model (RMSE 2.79)
-- 📊 [Interactive Plotly Plots](https://github.com/ratrent55/plotly_test_data) – test data visualization
+- 📊 [Interactive Dshboard](https://github.com/ratrent55/Dashboard-) – data visualization dashboard
+- 📈 [Interactive Plotly Plots](https://github.com/ratrent55/plotly_test_data) – test data visualization
 - 📒 [DataFrame Manager](https://github.com/ratrent55/DataFrameManager) – dataFrame organization
 - 🛰️ [PCM Thermal Model](https://github.com/YourRepo/PCM-Thermal-Model) – optimization of phase-change systems (in-progress)
 
